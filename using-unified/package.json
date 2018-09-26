@@ -1,0 +1,26 @@
+{
+  "name": "using-unified",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "rehype-document": "^2.2.0",
+    "rehype-stringify": "^4.0.0",
+    "remark-parse": "^5.0.0",
+    "remark-rehype": "^3.0.1",
+    "remark-retext": "^3.1.1",
+    "remark-toc": "^5.0.0",
+    "retext-english": "^3.0.0",
+    "retext-indefinite-article": "^1.1.4",
+    "to-vfile": "^5.0.1",
+    "unified": "^7.0.0",
+    "unified-stream": "^1.0.2",
+    "vfile-reporter": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
